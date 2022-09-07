@@ -2,7 +2,7 @@ Tense/mood	           form
 perfect active	       amauit 
 perfect passive	       amati/amatae
 imperfect active     	 amabat
-imperfect passive	     amabatur
+imperfect passive	     amabantur
 
 Tense/mood             form
 perfect active	       audiuerunt 
@@ -14,7 +14,7 @@ Tense/mood	           form
 perfect active	       cepit
 perfect passive   	   capti/captae
 imperfect active	     capebat
-imperfect passive	     capebatur
+imperfect passive	     capebantur
 
 uenērunt- 3rd person, plural, indicative, perfect, active
 interfectus est- 3rd person, plural, indicative, perfect, passive
