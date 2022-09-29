@@ -46,7 +46,7 @@ Imperfect passive	        capebatur
 Perfect active	            cepit
 Perfect passive	          captae est 
 
-Verb forms:third person plural- uideo (neuter subject)
+Verb forms: third person plural- uideo (neuter subject)
 Tense and voice	            Form
 Imperfect active	        uidebant
 Imperfect passive	       uidebantur 
