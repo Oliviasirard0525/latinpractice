@@ -32,6 +32,7 @@ The sentence structure is subject, object, verb in this sentence.
 First principal part- appōnō, 3rd person, singular, passive, perfect, indicative 
 
 (9) What is the antecedent of eam?
+Hesione 
 
 **Translation**
-Hercules killed Antaeus, the son of the Earth, in Libya. 
+Hercules killed Antaeus, the son of the Earth, in Libya. Hercules was killing the guests; He killed Antaeus by wrestling. Cygnus, the son of Mars, was killed by arms. Mars came and contended with Hercules in arms on account of his son, but Jupiter sent lightning among them. The whale, Hesione, was attached to Troy. He killed him; Laomedon, the father of Hesione, killed with arrows because he did not return her. 
