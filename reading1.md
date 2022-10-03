@@ -29,7 +29,9 @@ In this sentence fulmen is singular, accusative (direct object).
 The sentence structure is subject, object, verb in this sentence. 
 
 (8) Fully identify the form of apposita est.
-First 
+First principal part- appōnō, 3rd person, singular, passive, perfect, indicative 
+
 (9) What is the antecedent of eam?
 
 **Translation**
+Hercules killed Antaeus, the son of the Earth, in Libya. 
