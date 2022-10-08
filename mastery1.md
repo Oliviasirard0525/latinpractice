@@ -1,4 +1,6 @@
-Seven finite verbs:
+**+1 Needs revisions**
+
+Seven finite verbs:  ✅
 1. occidit- 3rd person, singular, indicative, perfect, active, first principal part- occido
 2. interficiebat- 3rd person, singular, indicative, active, imperfect, first principal part- interficio 
 3. necauit- 3rd person, singular, indicative, active, perfect, first principal part- neco
@@ -7,10 +9,10 @@ Seven finite verbs:
 6. contendit- 3rd person, singular, indicative, perfect, active, first principal part- contendo 
 7. misit- 3rd person, singular, indicative, perfect, active, first principle part- mitto 
 
-Noun-Adjective Agreement: “the previous god” (prior deus)
+Noun-Adjective Agreement: “the previous god” (prior deus) ✅
 **Singular**
 Case         	**Masculine**     	Feminine	      Neuter
-Nominative	   dues prior  	 
+Nominative	   deus prior  	 
 Genitive	 	   dei prioris
 Dative	 	 	   deo priori
 Accusative	 	 deum priorem	 
@@ -23,7 +25,7 @@ Dative	 	 	   deis prioribus
 Accusative	 	 deos priores  	 
 Ablative	 	 	 deis prioribus   
 
-Pronouns: “the former-mentioned ship”
+Pronouns: “the former-mentioned ship”❌
 **Singular**
 Case	          Masculine        **Feminine**	      Neuter
 Nominative	 	 	                    illa
@@ -41,14 +43,14 @@ Ablative	 	 	                      illis
 
 Verb forms: third person singular- capio (feminine subject) 
 Tense and voice           	Form
-Imperfect active	         capebat
-Imperfect passive	        capebatur 
+Imperfect active	         capebat❌
+Imperfect passive	        capebatur ❌
 Perfect active	            cepit
-Perfect passive	          captae est 
+Perfect passive	          captae est ❌
 
 Verb forms: third person plural- uideo (neuter subject)
 Tense and voice	            Form
 Imperfect active	        uidebant
 Imperfect passive	       uidebantur 
 Perfect active	          uiderunt
-Perfect passive	         uisi sunt
+Perfect passive	         uisi sunt❌
