@@ -11,7 +11,7 @@ deus amoris- masculine, nominative, singular; masculine, genitive, singular
 amor deorum- masculine, nominative, singular; masculine, genitive, plural 
 Herculis canis- masculine, genitive, singular; masculine or feminine, nominative, singular
 nomen dei- neuter, nominative, singular; masculine, genitive, singular
-filii deorum- masculine, genitive, singular❌; masculine, genitive, plural 
-nomina filiorum- neuter, genitive❌, plural; masculine, genitive, plural 
+filii deorum- masculine, genitive, plural  ❌; masculine, genitive, plural 
+nomina filiorum- neuter, nominative ❌, plural; masculine, genitive, plural 
 
-amor Deianirae: He loved Daria or Daria was loved❌
+amor Deianirae: The love of Deianira or Deianira's love❌
