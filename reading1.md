@@ -16,10 +16,10 @@ The second declension.  ✅
 The gentitive case; filium  ✅
 
 (4) What is the antecedent of hic?
-Antaeus (fixed) ❌
+**Antaeus** (fixed) ❌
 
 (5) What case is armis?
-The dative case.  ❌
+The dative case. **Ablative** ❌
 
 (6) Explain the construction cum eo?  ✅
 cum + abl= with (preposition) eo= masculine ablative = he 
@@ -38,8 +38,9 @@ Hesione
 
 **Translation**
 Hercules killed Antaeus, the son of the Earth, in Libya. 
-Antaeus (fixed) ❌ was killing the guests; He killed Antaeus by wrestling. 
+**Antaeus** (fixed) ❌ was killing the guests; He killed Antaeus by wrestling. 
 Hercules killed Cygnus, the son of Mars, by arms. 
 Mars came and contended with Hercules in arms on account of his son, but Jupiter sent lightning among them.
-The whale❌, Hesione, was attached to Troy. **Hesione was put next to the sea monster at Troy.** (fixed) 
-Hercules killed him; Laomedon ?❌, the father of Hesione, killed with arrows because he did not return her. 
+The whale ❌, Hesione, was attached to Troy. **Hesione was put next to the sea monster at Troy.** (fixed) 
+Hercules killed him; 
+Laomedon ❌, the father of Hesione, killed with arrows because he did not return her. **Hercules killed Laomedon, the father of Hesione, with arrows because he did not return her.** (fixed) 
