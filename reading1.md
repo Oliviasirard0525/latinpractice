@@ -19,7 +19,7 @@ The gentitive case; filium  ✅
 **Antaeus** (fixed) ❌
 
 (5) What case is armis?
-The dative case. **Ablative** ❌
+**Ablative case** (fixed) ❌
 
 (6) Explain the construction cum eo?  ✅
 cum + abl= with (preposition) eo= masculine ablative = he 
