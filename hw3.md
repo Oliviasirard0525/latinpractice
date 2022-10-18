@@ -1,4 +1,4 @@
-**+1 Needs revisions**
+**+2 Satisfactory**
 
 Tense/mood	           form
 perfect active	       amauit 
