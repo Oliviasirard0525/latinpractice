@@ -4,19 +4,19 @@ Daedalus pennas sibi et Icaro filio fecit.
 
 Bacchus Ariadnen amauit et sibi in coniugium abduxit.
 - pronoun: sibi
-- Bacchus fell in love with Ariadne and married him. 
+- Bacchus loved Ariadne and he took her in marriage for himself. 
 
 Pelopia gladium eripuit, et in pectus sibi detrusit.
 - pronoun: sibi
-- Pelopia seized the sword, and thrust it into his chest. 
+- Pelopia seized the sword, and thrust it into her own chest. 
 
 Iuno Venus Minerua formam sibi uindicauerunt.
 - pronoun: sibi
-- Juno claimed the form of Venus Minerua. 
+- Juno, Venus, and Minerua claimed beauty for themselves. 
 
-Ulysses fluctibus iactabatur; Leucothea balteum ei dedit et sibi pectus uinciret.
+Ulysses fluctibus iactabatur; Leucothea balteum ei dedit et sibi pectus uinxit.
 - pronoun: sibi
-- Ulysses was tossed by the waves; Leucothea gave him a girdle and he would attach his chest. 
+- Ulysses was tossed by the waves; Leucothea gave a shawl to him and he attached the shawl to his chest for himself. 
 
 Achelous fluuius in omnes figuras se immutabat. hic cum Hercule propter Deianirae coniugium pugnauit, et in taurum se conuertit.
 - pronoun: se, se
