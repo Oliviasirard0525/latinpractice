@@ -43,14 +43,14 @@ Ablative	 	 	                      illis
 
 Verb forms: third person singular- capio (feminine subject) 
 Tense and voice           	Form
-Imperfect active	         capebat❌
-Imperfect passive	        capebatur ❌
+Imperfect active	         capebat❌ **capiebat** -(fixed)
+Imperfect passive	        capebatur ❌ **capiebatur** -(fixed)
 Perfect active	            cepit
-Perfect passive	          captae est ❌
+Perfect passive	          captae est ❌ **capta est** -(fixed)
 
 Verb forms: third person plural- uideo (neuter subject)
 Tense and voice	            Form
 Imperfect active	        uidebant
 Imperfect passive	       uidebantur 
 Perfect active	          uiderunt
-Perfect passive	         uisi sunt❌
+Perfect passive	         uisi sunt❌ **uisa sunt** -(fixed)
