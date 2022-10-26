@@ -25,21 +25,21 @@ Dative	 	 	   deis prioribus
 Accusative	 	 deos priores  	 
 Ablative	 	 	 deis prioribus   
 
-Pronouns: “the former-mentioned ship”❌
+Pronouns: “the former-mentioned ship”❌ (fixed)
 **Singular**
 Case	          Masculine        **Feminine**	      Neuter
-Nominative	 	 	                    illa
-Genitive	 	 	                      illius
-Dative	 	 	                        illi  
-Accusative	 	 	                    illam
-Ablative	 	 	                      illa
+Nominative	 	 	                    illa **navis**
+Genitive	 	 	                      illius **navis**
+Dative	 	 	                        illi **navi** 
+Accusative	 	 	                    illam **navem**
+Ablative	 	 	                      illa **nave**
 **Plural**
 Case	          Masculine	        **Feminine**	      Neuter
-Nominative	 	 	                    illae
-Genitive	 	 	                      illarum
-Dative	 	 	                        illis
-Accusative	 	 	                    illas
-Ablative	 	 	                      illis 
+Nominative	 	 	                    illae **naves**
+Genitive	 	 	                      illarum **navum**
+Dative	 	 	                        illis **navibus** 
+Accusative	 	 	                    illas **naves** 
+Ablative	 	 	                      illis **navibus**
 
 Verb forms: third person singular- capio (feminine subject) 
 Tense and voice           	Form
