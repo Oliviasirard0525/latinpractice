@@ -18,11 +18,7 @@ Accusative	      hos imprudentes filios
 Ablative	        his impprudentibus filiis
 
 
-**Case usage:**
-1.abl. acc acc plural-fields
-2. cum (accompioning) is,ea,id(gen)
-3. no prep, abl- time at a particular moment     tempus, temporis,n. is,ea,id  n. abl sin. 
-4. non possum-passive imperfect + ire
+**Case usage:** 
 5. 
 6. 
 7. no abl, acc plural + feminie acc plu
@@ -31,10 +27,10 @@ Ablative	        his impprudentibus filiis
 10. abl.  
 nox, noctis,f. night  is,ea,id (abl, f. sin)
 
-Cydippe sent the oxen **into the fields**.
-They did not return **with her sons**.
-**At that time**, the festival was due to begin.
-Cydippe **was not able to go** to the festival.
+Cydippe sent the oxen **into the fields**. - **in agros**
+They did not return **with her sons**. - **cum filiis eius**
+**At that time**, the festival was due to begin. - **tempore eo** 
+Cydippe **was not able to go** to the festival. - **ire non poterat**
 Cleops and Bitias **wanted to bring** their mother to the festival.
 They yoked **themselves** to a wagon.
 They pulled the wagon **for many hours**.
