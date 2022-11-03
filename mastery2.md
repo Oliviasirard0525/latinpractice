@@ -1,9 +1,24 @@
-write here
+**Noun-adjective agreement**
+Complete a full declension of the phrase “this foolish son” (hic imprudens filius).
+
+**Singular**
+Case	            Form
+Nominative	      hic imprudens filius 
+Genitive	        huius imprudentis filii
+Dative	          huic imprudenti filio
+Accusative	      hunc imprudentem filium
+Ablative	        hoc imprudenti filio
+
+**Plural**
+Case	            Form
+Nominative	      hi imprudentes filii
+Genitive	        horum imprudentium filiorum 
+Dative	          his imprudentibus filiis
+Accusative	      hos imprudentes filios 
+Ablative	        his impprudentibus filiis
 
 
-
-
-Case usage:
+**Case usage:**
 1.abl. acc acc plural-fields
 2. cum (accompioning) is,ea,id(gen)
 3. no prep, abl- time at a particular moment     tempus, temporis,n. is,ea,id  n. abl sin. 
