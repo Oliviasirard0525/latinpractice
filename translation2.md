@@ -29,11 +29,4 @@ What tense is erat and what are the principle parts of the verb it comes from?
 
 **C. Translation**
 Please translate the passage into idiomatic English.
-**Once upon a time, Prometheus, the first son of Iapetus, made men out of mud. At the same time, Vulcanus was making women out of mud. Minerva gave a soul to this woman and all the gods sent her gifts. **
-
-ob id *nōmen* “Pandōra” ei **datum est**. *Pandōra* ab Iove in coniugium Epimetheō **data est**. *Fīlia* eōrum 
-**erat** Pyrrha, prīma mortālis.
-Long ago, Prometheus
-At the same time, 
-
-4. On account of this, was given the name the women of all gifts 
+**Once upon a time, Prometheus, the first son of Iapetus, made men out of mud. At the same time, Vulcanus was making women out of mud. Minerva gave a soul to this woman and all the gods sent her gifts. On account of this, she was given the name Pandora. Pandora was given by Jupiter to Epimetheus in marriage. Their daughter was Pyrrha, the first mortal. **
