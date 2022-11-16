@@ -1,4 +1,4 @@
-**+1 Needs revisions**
+**+2 Satisfactory**
 
 Seven finite verbs:  ✅
 1. occidit- 3rd person, singular, indicative, perfect, active, first principal part- occido
