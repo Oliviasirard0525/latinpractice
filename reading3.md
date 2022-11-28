@@ -1,4 +1,4 @@
-Cum Achīvī decem annōs in Troia **fuissent**, *Epeus* mirae magnitūdinis equum ligneum **fēcit**. In eō **collēctī sunt** Menelaus, Ulixēs, Diomedes, Thessander, Sthenelus, Acamas, Thoas, Machaon, Neoptolemus. et in equō **scripsērunt** “DANAI MINERVAE DONUM **DEDERUNT**", castraque **transtulērunt** Tenedo. Cum id *Troianī* **vidērunt**, Priamus equum in templum Minervae **duxit**. Cum Cassandra **diceret** equum **habere** hostes, fidēs eī non **data est** et equum pro templō **posuērunt**. Achīvī **exiērunt** et custodēs **occidērunt** et Troiam **sunt potitī**.
+Cum Achīvī decem annōs in Troia **fuissent**, *Epeus* mirae magnitūdinis equum ligneum **fēcit**. In eō **collēctī sunt** Menelaus, Ulixēs, Diomedes, Thessander, Sthenelus, Acamas, Thoas, Machaon, Neoptolemus. et in equō **scripsērunt** “DANAI MINERVAE DONUM **DEDERUNT**", castraque **transtulērunt** Tenedo. Cum id *Troianī* **vidērunt**, Priamus equum in templum Minervae **duxit**. Cum Cassandra **diceret** *equum* **habere** hostes (direct object), fidēs eī non **data est** et equum pro templō **posuērunt**. Achīvī **exiērunt** et custodēs **occidērunt** et Troiam **sunt potitī**.
 
 1. subjunctive imperfect (circumstance)
 2. indicative; transitive active clause   
@@ -6,7 +6,7 @@ Cum Achīvī decem annōs in Troia **fuissent**, *Epeus* mirae magnitūdinis equ
 4. they wrote..  (quote is whole direct object)
 5. castraque- connected (que attaches to castra)
 6. 
-
+While she was saying that the horse contains the enemy, 
 **A. Grammatical Questions**
 Highlight all the finite verbs with two asterisks like this, and the subjects with one asterisk like this.
 
