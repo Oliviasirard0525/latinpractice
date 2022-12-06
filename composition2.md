@@ -3,7 +3,7 @@
 **Cleops et Bitias, Cydippae filii**
 
 1. Cydippe boves in agros misit, sed illi ad tempore❌ non redierunt. 
-2. **Cydippe boves in agros misit, sed illi **
+2. **Cydippe boves in agros misit, sed illi ad **
 3. Sacra duci debebant illud❌ tempore, et sacerdos adesse apud❌ fanum debebant❌, sed Cydippe dabat❌ se in uiam non poterat. 
 4. **Sacra duci debebant  , et sacerdos adesse  , sed Cydippe non poterat se in uiam dare.**
 5. Cleops et Bitias matrem suam in templum adducere voluerunt, se sub iugum iunxerunt. 
