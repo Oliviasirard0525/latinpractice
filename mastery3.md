@@ -11,8 +11,8 @@ Pluperfect subjunctive    duxisset       ductus esset
 Compose the following infinitives of duco:
 
 Tense	          Active	        Passive
-Present	 	 
-Perfect	 	 
+Present	 	      ducere         duci
+Perfect	 	      duxisse        ductus esse
 
 Sample verb: uenio
 Please complete the following forms for the verb audio in the third person plural. Assume a masculine subject.
@@ -26,8 +26,8 @@ Pluperfect subjunctive	 	    audivissent    auditi Essent
 Compose the following infinitives of audio:
 
 Tense	                Active             	Passive
-Present	 	 
-Perfect	 	 
+Present	 	            audire              audiri
+Perfect	 	            audivisse           auditus esse
 
 Sample verb: sum
 The verb sum is intransitive: it has no passive forms.
@@ -42,5 +42,5 @@ Pluperfect subjunctive	             fuisset
 Compose the following infinitives of sum:
 
 Tense           	Form
-Present	 
-Perfect	 
+Present	         esse
+Perfect	         fuisse
